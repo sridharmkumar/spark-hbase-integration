@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="hbase-library">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../../../dev/hbasejars/hbase-client-1.1.2.2.6.2.0-205.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../dev/hbasejars/hbase-common-1.1.2.2.6.2.0-205.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../dev/hbasejars/hbase-protocol-1.1.2.2.6.2.0-205.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../dev/hbasejars/hbase-server-1.1.2.2.6.2.0-205.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../dev/hbasejars/shc-core-1.1.1-2.1-s_2.11.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

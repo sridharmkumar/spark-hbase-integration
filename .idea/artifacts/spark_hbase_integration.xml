@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="spark-hbase-integration">
+    <output-path>$PROJECT_DIR$/out/artifacts/spark_hbase_integration</output-path>
+    <root id="archive" name="spark-hbase-integration.jar">
+      <element id="module-output" name="spark-hbase-integration" />
+    </root>
+  </artifact>
+</component>
